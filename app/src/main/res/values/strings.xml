@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BirthdayCard</string>
+    <string name="textview1">"Name From</string>
+    <string name="textview2">Name To</string>
+    <string name="textview3">Message</string>
+    <string name="btn1">SELECT IMAGE</string>
+    <string name="btn2">MAKE CARD</string>
+    <string name="edit1">edit1</string>
+    <string name="edit2">edit2</string>
+    <string name="edit3">edit3</string>
+</resources>
